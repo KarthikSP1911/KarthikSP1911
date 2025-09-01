@@ -8,7 +8,7 @@
 <table>
   <tr>
     <td>
-      Hi, I'm <b>Karthik S Poojary</b> 👨‍💻 — a passionate tech enthusiast exploring full-stack development and problem-solving.
+      # Hi there,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="40px" width="40px"> <b>Karthik S Poojary</b>  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/> a passionate tech enthusiast exploring full-stack development and problem-solving.
     </td>
     <td>
       <img src="assets/programmer.png" height="200"/>
