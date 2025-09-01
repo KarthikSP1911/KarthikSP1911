@@ -8,17 +8,21 @@
 <table>
   <tr>
     <td>
-      # Hi there, I'm ...
-      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30" width="30"> 
-      <b>Karthik S Poojary </b> 
-      <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25">  
-      — a passionate tech enthusiast exploring **full-stack development** and **problem-solving**.
+      <h2>Hi there, I'm 
+        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30" width="30"> 
+        <b>Karthik S Poojary</b> 
+        <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25">
+      </h2>
+      <p>
+        — a passionate tech enthusiast exploring <b>full-stack development</b> and <b>problem-solving</b>.
+      </p>
     </td>
     <td>
       <img src="assets/programmer.png" height="200">
     </td>
   </tr>
 </table>
+
 
 
 
