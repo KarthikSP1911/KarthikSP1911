@@ -1,4 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=08F7FE&background=FFFFFF00&vCenter=true&width=900&height=62&lines=Hi+There+%F0%9F%91%8B%2C+Welcome+to+my+Github...!)](https://git.io/typing-svg)
+<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
 
 <h1 align="left">
   <font color="#08F7FE">✨ Intro ✨</font>
