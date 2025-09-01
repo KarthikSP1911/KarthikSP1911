@@ -144,8 +144,11 @@
 ![LeetCode Stats](metrics.plugin.leetcode.svg)
 
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=KarthikSP1911.KarthikSP1911&left_color=black&right_color=limegreen&left_text=Visitors" />
-</div>
+<img 
+  src="https://visitor-badge.laobi.icu/badge?page_id=KarthikSP1911.KarthikSP1911&left_color=black&right_color=limegreen&left_text=Visitors" 
+  alt="Visitor Badge" 
+  style="display: block; margin: 0 auto;"
+/>
+
 
 [![Thanks for your visit....!](https://pimp-my-readme-next.vercel.app/api/sliding-text?emojis=&text=Thanks%20for%20your%20visit....%21)](https://pimp-my-readme-next.vercel.app)
