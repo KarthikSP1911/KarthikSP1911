@@ -7,13 +7,13 @@
 
 <table>
   <tr>
-    <td style="font-size: 18px; line-height: 1.6; font-family: Arial, sans-serif; color: #333;">
-  # Hi there,
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="40px" width="40px" style="vertical-align: middle;"> 
-  <b style="color: #08F7FE;">Karthik S Poojary</b>  
-  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28" style="vertical-align: middle;"> 
-  — a passionate tech enthusiast exploring <span style="color: #FF9F1C; font-weight: 600;">full-stack development</span> and <span style="color: #2EC4B6; font-weight: 600;">problem-solving</span>.
-</td>
+   <td style="font-size: 18px; line-height: 1.6; font-family: Arial, sans-serif; color: #333;">
+      # Hi there,
+      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="40px" width="40px" style="vertical-align: middle;"> 
+      <b style="color: #08F7FE;">Karthik S Poojary</b>  
+      <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28" style="vertical-align: middle;"> 
+      — a passionate tech enthusiast exploring <span style="color: #FF9F1C; font-weight: 600;">full-stack development</span> and <span style="color: #2EC4B6; font-weight: 600;">problem-solving</span>.
+    </td>
 
     <td>
       <img src="assets/programmer.png" height="200"/>
