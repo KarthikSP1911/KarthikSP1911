@@ -1,20 +1,21 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=1F51FF00FFFF&background=FFFFFF00&vCenter=true&width=900&height=62&lines=Hi+There+%F0%9F%91%8B%2C+Welcome+to+my+Github...!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=08F7FE&background=FFFFFF00&vCenter=true&width=900&height=62&lines=Hi+There+%F0%9F%91%8B%2C+Welcome+to+my+Github...!)](https://git.io/typing-svg)
 
 <h1 align="left">
-  <span style="color:#39FF14">✨ Intro ✨</span>
+  <font color="#39FF14">✨ Intro ✨</font>
 </h1>
 
 <p align="left">
 Hi, I'm <b>Karthik S Poojary</b> 👨‍💻 — a passionate tech enthusiast from <b>Mangalore</b>, exploring full-stack development and problem-solving.
 </p>
 
-<img align="right" height="200" src="assets/programmer.png" />
+<!-- Right-aligned image -->
+<img align="right" height="200" src="assets/programmer.png" style="margin-top:-20px; margin-left:15px;" />
 
 <h1 align="left">
-  <span style="color:#39FF14">💡 About Me</span>
+  <font color="#39FF14">💡 About Me</font>
 </h1>
 
-<p align="left">
+<p align="left" style="margin-bottom:40px;">
 🎓 Pursuing <b>Information Science & Engineering (ISE)</b><br>
 📚 Currently learning <b>Next.js, FastAPI, and Cloud Technologies</b><br>
 💻 Skilled in <b>Python, C++, Databases, and Web Development</b><br>
@@ -22,9 +23,8 @@ Hi, I'm <b>Karthik S Poojary</b> 👨‍💻 — a passionate tech enthusiast fr
 🎯 Goal: To contribute to <b>open-source projects</b> and grow as a developer
 </p>
 
-
 <h1 align="left">
-  <span style="color:#39FF14">🛠 Tech Stack</span>
+  <font color="#39FF14">🛠 Tech Stack</font>
 </h1>
 
 <div align="left">
@@ -81,7 +81,7 @@ Hi, I'm <b>Karthik S Poojary</b> 👨‍💻 — a passionate tech enthusiast fr
 <br/>
 
 <h1 align="left">
-  <span style="color:#39FF14">📊 GitHub Stats</span>
+  <font color="#39FF14">📊 GitHub Stats</font>
 </h1>
 
 <div align="center">
@@ -91,7 +91,7 @@ Hi, I'm <b>Karthik S Poojary</b> 👨‍💻 — a passionate tech enthusiast fr
 <br/>
 
 <h1 align="left">
-  <span style="color:#39FF14">🏆 Contributions</span>
+  <font color="#39FF14">🏆 Contributions</font>
 </h1>
 
 <picture>
@@ -100,8 +100,9 @@ Hi, I'm <b>Karthik S Poojary</b> 👨‍💻 — a passionate tech enthusiast fr
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/KarthikSP1911/KarthikSP1911/output/pacman-contribution-graph.svg">
 </picture>
 <br/>
+
 <h1 align="left">
-  <span style="color:#39FF14">🌐 Connect with Me</span>
+  <font color="#39FF14">🌐 Connect with Me</font>
 </h1>
 
 <div align="center">
@@ -120,8 +121,9 @@ Hi, I'm <b>Karthik S Poojary</b> 👨‍💻 — a passionate tech enthusiast fr
 </div>
 
 <br/>
+
 <h1 align="left">
-  <span style="color:#39FF14">🧩 Competitive Programming</span>
+  <font color="#39FF14">🧩 Competitive Programming</font>
 </h1>
 
 <div align="center">
