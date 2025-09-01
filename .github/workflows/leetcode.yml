@@ -9,8 +9,10 @@ jobs:
   leetcode-metrics:
     runs-on: ubuntu-latest
     steps:
+      # Checkout your repo
       - uses: actions/checkout@v3
 
+      # Generate the metrics SVG
       - name: Generate LeetCode Metrics
         uses: lowlighter/metrics@latest
         with:
@@ -21,11 +23,12 @@ jobs:
           plugin_leetcode_limit_skills: 10
           plugin_leetcode_limit_recent: 2
 
-      - name: Commit Metrics Safely
+      # Commit and push changes
+      - name: Commit Metrics
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add metrics.plugin.leetcode.svg
+          git add metrics_renders/metrics.plugin.leetcode.svg
           if git diff-index --quiet HEAD; then
             echo "No changes to commit"
           else
