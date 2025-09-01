@@ -9,7 +9,7 @@ jobs:
   leetcode-metrics:
     runs-on: ubuntu-latest
     steps:
-      # Checkout your repo
+      # Checkout your repository
       - uses: actions/checkout@v3
 
       # Generate the metrics SVG
@@ -19,20 +19,15 @@ jobs:
           filename: metrics.plugin.leetcode.svg
           token: NOT_NEEDED
           plugin_leetcode: yes
-          plugin_leetcode_user: KarthikSP1911   # <-- Your actual LeetCode username
           plugin_leetcode_sections: solved, skills, recent
           plugin_leetcode_limit_skills: 10
           plugin_leetcode_limit_recent: 2
 
-      # Check where the SVG was saved
-      - name: List output folder
-        run: ls -R /metrics_renders
-
-      # Move the generated SVG to repo root (adjust if needed)
+      # Move the generated SVG from the container output folder to the repo root
       - name: Move SVG to root
         run: mv /metrics_renders/metrics.plugin.leetcode.svg ./metrics.plugin.leetcode.svg
 
-      # Commit and push changes safely
+      # Commit and push changes
       - name: Commit Metrics
         run: |
           git config --global user.name "github-actions[bot]"
