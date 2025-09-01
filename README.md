@@ -1,19 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=08F7FE&background=FFFFFF00&vCenter=true&width=900&height=62&lines=Hi+There+%F0%9F%91%8B%2C+Welcome+to+my+Github...!)](https://git.io/typing-svg)
 
-<h1 align="left">
-  <font color="#08F7FE">✨ Intro ✨</font>
-</h1>
+## ✨ Intro ✨
 
-<div>
-  <p align="left">
-    Hi, I'm <b>Karthik S Poojary</b> 👨‍💻 — a passionate tech enthusiast .
-  </p>
+Hi, I'm **Karthik S Poojary** 👨‍💻 — a passionate tech enthusiast.
 
-  <!-- Right-aligned image inside same block -->
-  <br/>
-  <br/>
-  <img align="right" height="200" src="assets/programmer.png" />
-</div>
+<img align="right" src="assets/programmer.png" height="200"/>
 
 
 <h1 align="left">
