@@ -1,27 +1,29 @@
-name: LeetCode Metrics
+name: Update LeetCode Metrics
 
 on:
-  schedule:
-    - cron: '0 0 * * *' # Runs daily at midnight UTC
   workflow_dispatch:
+  schedule:
+    - cron: '0 2 * * *'  # daily at 2 AM UTC
 
 jobs:
-  leetcode:
+  leetcode-metrics:
     runs-on: ubuntu-latest
     steps:
+      # Checkout your repo
       - uses: actions/checkout@v3
+
+      # Generate the metrics SVG
       - name: Generate LeetCode Metrics
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.leetcode.svg
           token: NOT_NEEDED
-          base: ""
           plugin_leetcode: yes
-          plugin_leetcode_user: karthiksp1911
           plugin_leetcode_sections: solved, skills, recent
           plugin_leetcode_limit_skills: 10
-          plugin_leetcode_ignored_skills: fundamental
           plugin_leetcode_limit_recent: 2
+
+      # Commit and push changes safely
       - name: Commit Metrics
         run: |
           git config --global user.name "github-actions[bot]"
