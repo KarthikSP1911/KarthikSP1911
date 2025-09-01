@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
 
 <h1 align="left">
-  <font color="#08F7FE">✨ Intro ✨</font>
+  <font color="#08F7FE">✨ Intro </font>
 </h1>
 
 <table>
