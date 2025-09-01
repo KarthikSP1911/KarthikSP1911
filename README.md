@@ -6,7 +6,7 @@
 
 <div>
   <p align="left">
-    Hi, I'm <b>Karthik S Poojary</b> 👨‍💻 — a passionate tech enthusiast from <b>Mangalore</b>, exploring full-stack development and problem-solving.
+    Hi, I'm <b>Karthik S Poojary</b> 👨‍💻 — a passionate tech enthusiast .
   </p>
 
   <!-- Right-aligned image inside same block -->
