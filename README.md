@@ -135,7 +135,7 @@
   <font color="#39FF14">🧩 Competitive Programming</font>
 </h1>
 
-<div align="center">
+<div align="left">
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/karthiksp1911?theme=dark&ext=heatmap)  
 
