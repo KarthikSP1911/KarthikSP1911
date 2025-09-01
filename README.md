@@ -137,7 +137,7 @@
 
 <div align="center">
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&ext=heatmap)  
+![LeetCode Stats](https://leetcard.jacoblin.cool/karthiksp1911?theme=dark&ext=heatmap)  
 
 </div>
 
