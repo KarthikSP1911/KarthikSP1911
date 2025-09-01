@@ -1,1 +1,17 @@
 
+name: Update Quote
+
+on:
+  schedule:
+    - cron: '0 * * * *' # every hour
+  workflow_dispatch:
+
+jobs:
+  update-quote:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Update Quote
+        uses: marketplacer/quote-readme@v1
+        with:
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
