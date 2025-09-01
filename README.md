@@ -10,6 +10,8 @@
   </p>
 
   <!-- Right-aligned image inside same block -->
+  <br/>
+  <br/>
   <img align="right" height="200" src="assets/programmer.png" />
 </div>
 
