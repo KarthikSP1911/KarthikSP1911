@@ -12,11 +12,20 @@
 
 ###
 
+<h1 align="left">Hey 👋 What's up?</h1>
+
+###
+
+<img align="right" height="200" src="assets/programmer.png" />
+
+###
+
 <p align="left">My name is Karthik S Poojary and I'm a <br>Tech, from Mangalore</p>
 
 ###
 
 <br clear="both">
+
 
 <h1 align="left" style="color:#39FF14">About me</h1>
 
