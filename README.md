@@ -4,14 +4,17 @@
   <font color="#08F7FE">✨ Intro ✨</font>
 </h1>
 
-<div>
-  <p align="left">
-    Hi, I'm <b>Karthik S Poojary</b> 👨‍💻 — a passionate tech enthusiast from <b>Mangalore</b>, exploring full-stack development and problem-solving.
-  </p>
+<table>
+  <tr>
+    <td>
+      Hi, I'm <b>Karthik S Poojary</b> 👨‍💻 — a passionate tech enthusiast exploring full-stack development and problem-solving.
+    </td>
+    <td>
+      <img src="assets/programmer.png" height="200"/>
+    </td>
+  </tr>
+</table>
 
-  <!-- Right-aligned image inside same block -->
-  <img align="right" height="200" src="assets/programmer.png" />
-</div>
 
 
 
