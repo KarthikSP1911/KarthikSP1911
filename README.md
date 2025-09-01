@@ -141,12 +141,8 @@
 
 </div>
 
-#### 🔖 Random Quote or Fun-Fact
-<a href="https://github.com/marketplace/actions/quote-readme">
-<!--STARTS_HERE_QUOTE_README-->
-<i>❝“The Internet?  We are not interested in it.”— Bill Gates, 1993   ❞</i>
-<!--ENDS_HERE_QUOTE_README-->
-</a>
+![LeetCode Stats](metrics.plugin.leetcode.svg)
+
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=KarthikSP1911.KarthikSP1911&left_color=black&right_color=limegreen&left_text=Visitors" />
