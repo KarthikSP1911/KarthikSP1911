@@ -19,16 +19,20 @@ jobs:
           filename: metrics.plugin.leetcode.svg
           token: NOT_NEEDED
           plugin_leetcode: yes
+          plugin_leetcode_user: KarthikSP1911   # <-- Your actual LeetCode username
           plugin_leetcode_sections: solved, skills, recent
           plugin_leetcode_limit_skills: 10
           plugin_leetcode_limit_recent: 2
 
-      # Move SVG from runner folder into repo root
-      - name: Move SVG to repo
-        run: |
-          mv metrics_renders/metrics.plugin.leetcode.svg ./metrics.plugin.leetcode.svg
+      # Check where the SVG was saved
+      - name: List output folder
+        run: ls -R /metrics_renders
 
-      # Commit and push changes
+      # Move the generated SVG to repo root (adjust if needed)
+      - name: Move SVG to root
+        run: mv /metrics_renders/metrics.plugin.leetcode.svg ./metrics.plugin.leetcode.svg
+
+      # Commit and push changes safely
       - name: Commit Metrics
         run: |
           git config --global user.name "github-actions[bot]"
