@@ -124,7 +124,7 @@
   <font color="#39FF14">🌐 Connect with Me</font>
 </h1>
 
-<div align="center">
+<div align="left">
   <!-- LinkedIn (inactive for now) -->
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="65" height="40" alt="linkedin logo" />
 
