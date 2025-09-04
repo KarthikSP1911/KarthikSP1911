@@ -1,3 +1,7 @@
+<div align="center">
+   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=false />
+</div>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=08F7FE&background=FFFFFF00&vCenter=true&width=900&height=62&lines=Welcome+to+my+Github...!)](https://git.io/typing-svg)
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
 
@@ -188,7 +192,8 @@
 [![Thanks for your visit....!](https://pimp-my-readme-next.vercel.app/api/sliding-text?emojis=&text=Thanks%20for%20your%20visit....%21)](https://pimp-my-readme-next.vercel.app)
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
-<img src="assets/footer liquid.gif" width="100%" height="150" />
-
+<div align="center">
+   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=false />
+</div>
 
 
