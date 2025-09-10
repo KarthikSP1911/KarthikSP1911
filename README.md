@@ -3,7 +3,7 @@
 </div>
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=08F7FE&background=FFFFFF00&vCenter=true&width=900&height=62&lines=Welcome+to+my+Github...!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=60&pause=1000&color=22F700&center=true&vCenter=true&width=899&height=90&lines=Welcome+++To;+My++++Github+...!)](https://git.io/typing-svg)
 
 <h1 align="left">
   <font color="#08F7FE">✨ Intro </font>
