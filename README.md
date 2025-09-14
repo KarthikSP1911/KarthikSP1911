@@ -197,6 +197,13 @@
 
 </div>
 
+<h1>
+  <font color="#39FF14">💬 My Principles</font>
+</h1>
+<p align="center">
+  <img src="assets/terminal.gif" alt="Cool GIF" width="900">
+</p>
+
 
 <br/>
 
@@ -223,8 +230,6 @@
 <p align="center">
   Made with ❤️ by Karthik
 </p>
-
-
 
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
 
