@@ -201,7 +201,7 @@
 <br/>
 
 [![Thanks for your visit....!](https://pimp-my-readme-next.vercel.app/api/sliding-text?emojis=&text=Thanks%20for%20your%20visit....%21)](https://pimp-my-readme-next.vercel.app)
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+
 
 
 <p align="center">
@@ -226,5 +226,5 @@
 
 
 
-<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
+<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
 
