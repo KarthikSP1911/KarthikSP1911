@@ -202,11 +202,29 @@
 
 [![Thanks for your visit....!](https://pimp-my-readme-next.vercel.app/api/sliding-text?emojis=&text=Thanks%20for%20your%20visit....%21)](https://pimp-my-readme-next.vercel.app)
 ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
-<img 
-  src="https://visitor-badge.laobi.icu/badge?page_id=KarthikSP1911.KarthikSP1911&left_color=black&right_color=limegreen&left_text=Visitors" 
-  alt="Visitor Badge" 
-  style="display: block; margin: 0 auto;"
-/>
+
+
+<p align="center">
+
+  <!-- Made with Heart -->
+  <img src="https://img.shields.io/badge/Made%20With-%E2%9D%A4-39FF14?style=flat&logo=github" alt="Made with ❤️" />
+
+  <!-- Visitors -->
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=KarthikSP1911.KarthikSP1911&left_color=black&right_color=limegreen&left_text=Visitors" alt="Visitors" />
+
+  <!-- GitHub Stars -->
+  <img src="https://img.shields.io/github/stars/KarthikSP1911?color=39FF14&label=Stars&style=flat" alt="Stars" />
+
+  <!-- Ask Me Anything -->
+  <img src="https://img.shields.io/badge/Ask%20Me-Anything-39FF14?style=flat" alt="Ask Me Anything" />
+
+</p>
+
+<p align="center">
+  Made with ❤️ by Karthik
+</p>
+
+
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
 
