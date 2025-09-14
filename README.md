@@ -3,29 +3,34 @@
 </div>
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=60&pause=1000&color=22F700&center=true&vCenter=true&width=899&height=90&lines=Welcome+++To;+My++++Github+...!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=60&pause=1000&color=FFFFFF&center=true&vCenter=true&width=999&height=90&lines=Welcome+++To;+My++++Github+...!)](https://git.io/typing-svg)
 
 <h1 align="left">
   <font color="#08F7FE">✨ Intro </font>
 </h1>
 
+<div align="center">
+
 <table>
   <tr>
-    <td>
-      <h2>Hi there, I'm ...
+    <td style="border: none; padding-right: 20px; vertical-align: middle;">
+      <h2>
+        Hi there, I'm 
         <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30" width="30"> 
-        <b>Karthik S Poojary <span> <span/></b> 
+        <b>Karthik S Poojary</b>
         <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25">
       </h2>
       <p>
         — a passionate tech enthusiast exploring <b>full-stack development</b> and <b>problem-solving</b>.
       </p>
     </td>
-    <td>
-      <img src="assets/programmer.png" height="200">
+    <td style="border: none; padding-left: 20px; vertical-align: middle;">
+      <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="350">
     </td>
   </tr>
 </table>
+
+</div>
 
 
 
@@ -169,32 +174,31 @@
 
 <br/>
 
+<h1>
+  <font color="#39FF14">🧩 Competitive Programming</font>
+</h1>
+
 <div align="center">
 
-  <h1>
-    <font color="#39FF14">🧩 Competitive Programming</font>
-  </h1>
+![LeetCode Stats](https://leetcard.jacoblin.cool/karthiksp1911?theme=dark&ext=heatmap)  
 
-  ![LeetCode Stats](https://leetcard.jacoblin.cool/karthiksp1911?theme=dark&ext=heatmap)  
-
-  ![LeetCode Stats](metrics.plugin.leetcode.svg)
+![LeetCode Stats](metrics.plugin.leetcode.svg)
 
 </div>
 
 
-
+<h1>
+  <font color="#39FF14">💬 Quote</font>
+</h1>
 
 <div align="center">
 
-  <h1>
-    <font color="#39FF14">Quote</font>
-  </h1>
-
-  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
 
+<br/>
 
 [![Thanks for your visit....!](https://pimp-my-readme-next.vercel.app/api/sliding-text?emojis=&text=Thanks%20for%20your%20visit....%21)](https://pimp-my-readme-next.vercel.app)
 ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
