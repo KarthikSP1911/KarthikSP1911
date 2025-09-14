@@ -169,33 +169,40 @@
 
 <br/>
 
-<h1 align="left">
-  <font color="#39FF14">🧩 Competitive Programming</font>
-</h1>
+<div align="center">
 
-<div align="left">
+  <h1>
+    <font color="#39FF14">🧩 Competitive Programming</font>
+  </h1>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/karthiksp1911?theme=dark&ext=heatmap)  
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/karthiksp1911?theme=dark&ext=heatmap)  
+
+  ![LeetCode Stats](metrics.plugin.leetcode.svg)
 
 </div>
 
-![LeetCode Stats](metrics.plugin.leetcode.svg)
 
 
+
+<div align="center">
+
+  <h1>
+    <font color="#39FF14">Quote</font>
+  </h1>
+
+  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
+
+
+[![Thanks for your visit....!](https://pimp-my-readme-next.vercel.app/api/sliding-text?emojis=&text=Thanks%20for%20your%20visit....%21)](https://pimp-my-readme-next.vercel.app)
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 <img 
   src="https://visitor-badge.laobi.icu/badge?page_id=KarthikSP1911.KarthikSP1911&left_color=black&right_color=limegreen&left_text=Visitors" 
   alt="Visitor Badge" 
   style="display: block; margin: 0 auto;"
 />
 
-<h1 align="left">
-  <font color="#39FF14">Quote</font>
-</h1>
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
-
-
-[![Thanks for your visit....!](https://pimp-my-readme-next.vercel.app/api/sliding-text?emojis=&text=Thanks%20for%20your%20visit....%21)](https://pimp-my-readme-next.vercel.app)
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
 
