@@ -21,7 +21,7 @@
         <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25">
       </h2>
       <p>
-        — a passionate tech enthusiast exploring <b>full-stack development</b> and <b>problem-solving</b>.
+         a passionate tech enthusiast exploring <b>full-stack development</b> and <b>problem-solving</b>.
       </p>
     </td>
     <td style="border: none; padding-left: 20px; vertical-align: middle;">
