@@ -8,6 +8,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=60&pause=1000&color=FFFFFF&center=true&vCenter=true&width=999&height=90&lines=Welcome+++To;+My++++Github+...!)](https://git.io/typing-svg)
 
+<p align="center">
+    <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation#readme" target="_blank"> <img src="https://readme-typing-svg.herokuapp.com?font=Tourney&center=true&vCenter=true&color=2CFF00&size=75&pause=750&width=1280&height=80&lines=The+Complete+Tour+of+My+Github"/> </a>
+</p>
+
 <h1 align="left">
   <font color="#08F7FE">✨ Intro </font>
 </h1>
@@ -205,10 +209,11 @@
 </h1>
 <p align="center">
   <img src="assets/terminal.gif" alt="Cool GIF" width="900">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="90%" height="40">
 </p>
 
-
 <br/>
+
 
 [![Thanks for your visit....!](https://pimp-my-readme-next.vercel.app/api/sliding-text?emojis=&text=Thanks%20for%20your%20visit....%21)](https://pimp-my-readme-next.vercel.app)
 
