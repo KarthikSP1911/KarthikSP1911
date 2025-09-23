@@ -1,6 +1,9 @@
 <div align="center">
    <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=false&rotate=-30/>
 </div>
+
+
+![banner](./assets/github-header-banner.png)
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=60&pause=1000&color=FFFFFF&center=true&vCenter=true&width=999&height=90&lines=Welcome+++To;+My++++Github+...!)](https://git.io/typing-svg)
