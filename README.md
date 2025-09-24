@@ -7,13 +7,10 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
 
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&weight=900&size=70&duration=4000&pause=1000&color=F7F7F7&width=570&height=100&lines=Welcome+To+)](https://git.io/typing-svg)
-
-</div>
-
-<p align="center">
-    <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation#readme" target="_blank"> <img src="https://readme-typing-svg.herokuapp.com?font=Tourney&center=true&vCenter=true&color=2CFF00&size=75&pause=750&width=1280&height=80&lines=The+Complete+Tour+of+My+Github"/> </a>
+  <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation#readme" target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Tourney&center=true&vCenter=true&color=2CFF00&size=70&pause=1000&width=1280&height=80&lines=Welcome+To+My+GitHub+Profile!;A+Complete+Tour..."/>
+  </a>
+ </div>
 </p>
 
 <h1 align="left">
