@@ -25,7 +25,7 @@
       
    <div>
 <div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="55" width="55">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="40" width="40">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm;Karthik+S+Poojary;A+Full-Stack+Developer" alt="Hi there, I'm Karthik S Poojary; A Full-Stack Developer">
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40">
 </div>
@@ -201,7 +201,7 @@
 </div>
 
 <h1>
-  <font color="#39FF14">💬 My Principles</font>
+  <font color="#39FF14">📖 My Principles</font>
 </h1>
 <p align="center">
   <img src="assets/terminal.gif" alt="Cool GIF" width="900">
