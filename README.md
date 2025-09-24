@@ -6,7 +6,11 @@
 ![banner](./assets/github-header-banner.png)
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=60&pause=1000&color=FFFFFF&center=true&vCenter=true&width=999&height=90&lines=Welcome+++To;+My++++Github+...!)](https://git.io/typing-svg)
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&weight=900&size=70&duration=4000&pause=1000&color=F7F7F7&width=570&height=100&lines=Welcome+To+)](https://git.io/typing-svg)
+
+</div>
 
 <p align="center">
     <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation#readme" target="_blank"> <img src="https://readme-typing-svg.herokuapp.com?font=Tourney&center=true&vCenter=true&color=2CFF00&size=75&pause=750&width=1280&height=80&lines=The+Complete+Tour+of+My+Github"/> </a>
@@ -20,18 +24,21 @@
 
 <table>
   <tr>
-    <td style="border: none; padding-right: 20px; vertical-align: middle;">
-      <h2>
-        Hi there, I'm 
-        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30" width="30"> 
-        <b>Karthik S Poojary</b>
-        <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25">
-      </h2>
-      <p>
-         a passionate tech enthusiast exploring <b>full-stack development</b> and <b>problem-solving</b>.
-      </p>
-    </td>
-    <td style="border: none; padding-left: 20px; vertical-align: middle;">
+    <td valign="middle">
+      
+   <div>
+<div align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="50" width="50">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm;Karthik+S+Poojary;A+Full-Stack+Developer" alt="Hi there, I'm Karthik S Poojary; A Full-Stack Developer">
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="45">
+</div>
+      </div>
+      
+  <br>
+
+   </td>
+    
+   <td valign="middle">
       <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="350">
     </td>
   </tr>
