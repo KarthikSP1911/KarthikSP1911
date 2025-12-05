@@ -7,7 +7,6 @@
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail)](mailto:karthiksp1911@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat&logo=leetcode)](https://leetcode.com/karthiksp1911)
 
----
 
 ## About Me
 
@@ -17,7 +16,7 @@
 - 🏋️ Interests: Fitness, Running, Rubik's Cube, Competitive Programming
 - 🎯 Goal: Contributing to open-source projects and building scalable applications
 
----
+
 
 ## Tech Stack
 
@@ -71,7 +70,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="Jest" title="Jest" />
 </p>
 
----
+
 
 
 
@@ -98,7 +97,7 @@
   </a>
 </p>
 
----
+
 
 <p align="center">
   <i>Open to collaboration and always eager to learn new technologies!</i>
