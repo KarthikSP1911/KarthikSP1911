@@ -68,6 +68,22 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash" title="Bash" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="Jest" title="Jest" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring" title="Spring" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="40" alt="Spring Boot" title="Spring Boot" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/hibernate/59666C" height="40" alt="Hibernate" title="Hibernate" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/apachekafka/231F20" height="40" alt="Apache Kafka" title="Apache Kafka" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/redis/DC382D" height="40" alt="Redis" title="Redis" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="Docker" title="Docker" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/junit5/25A162" height="40" alt="JUnit 5" title="JUnit 5" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/swagger/85EA2D" height="40" alt="Swagger / OpenAPI" title="Swagger / OpenAPI" />
 </p>
 
 
