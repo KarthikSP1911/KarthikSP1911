@@ -30,7 +30,7 @@
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,nextjs,nodejs,express,python,fastapi,flask,mongodb,postgres,c,cpp,java,git,github,vscode,ubuntu,bash,jest,spring,hibernate,kafka,redis,docker" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,nextjs,nodejs,express,python,fastapi,flask,mongodb,postgres,c,cpp,java,git,github,vscode,ubuntu,bash,jest,spring,hibernate,kafka,redis,docker,go" />
 </p>
 
 
