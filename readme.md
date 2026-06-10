@@ -1,5 +1,17 @@
-# Karthik S Poojary
+<h1 align="center"> Hi there, I'm <a href="https://dev.recodehiv.com/link">Karthik S Poojary</a> </h1>
 
+<!--- Adding Header Elements -->
+<p align="center">
+  <a href="htps://dev.recodehive.com/webs">Portfolio</a> -
+  <a href="htps://dev.recodehive.com/link">LinkedIn</a> - 
+  <a href="htps://dev.recodehive.com/tweet">X</a> -
+  <a href="htts://open.spotify.com/episode/601Tx5f6COtGRhjiHI6EhY?go=1&sp_cid=fd7333c9b3774cc0b44dea257bfe4547&utm_source=embed_player_p&utm_medium=desktop&nd=1&dlsi=e6dcb01a51b04cef">Podcast</a> -
+  <a href="htps://dev.recodehive.com/webz">Website</a> -
+  <a href="htps://learn.recodehive.com/crowds">Google Featured</a> -
+  <a href="htps://blog.recodehive.com/topmate">Contact me.</a> 
+</p>
+
+-----------------------------------------------------------
 **Full-Stack Developer | Information Science & Engineering Student**
 
 <p align="center">
