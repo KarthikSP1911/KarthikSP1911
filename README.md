@@ -3,11 +3,11 @@
 <!-- ================================================================ -->
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=140&color=0:000000,100:2b2b2b&text=PLAYER%201%20%E2%80%94%20KARTHIK%20S%20POOJARY&fontColor=ffffff&fontSize=34&fontAlignY=45&desc=class%3A%20Full-Stack%20Engineer%20%C2%B7%20subclass%3A%20Distributed%20Systems&descSize=15&descAlignY=72&animation=fadeIn" alt="Player 1 — Karthik S Poojary" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1400&color=FFFFFF&center=true&vCenter=true&width=640&lines=PRESS+START+TO+CONTINUE_;LOADING+SAVE+FILE...+%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%5D;NEW+QUEST+AVAILABLE%3A+SDE+INTERNSHIP" alt="press start" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/rpg/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/rpg/banner-light.svg">
+  <img src="assets/rpg/banner-dark.svg" alt="Level up — Karthik S Poojary" width="100%">
+</picture>
 </p>
 
 <p align="center">
@@ -24,23 +24,13 @@
 
 <table>
 <tr>
-<td width="38%" valign="top">
+<td width="38%" valign="top" align="center">
 
-```text
-        .-""""-.
-       / -   -  \
-      |  .-. .-. |
-      |  \o| |o/ |
-       \    ^   /
-        '. --- .'
-     .---'-----'---.
-    /  </>   { }    \
-   |   KARTHIK S P   |
-   |  LVL 4 · ENG    |
-    \_______________/
-       ||       ||
-      _||_     _||_
-```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/rpg/hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/rpg/hero-light.svg">
+  <img src="assets/rpg/hero-dark.svg" alt="Player 1 — pixel-art Karthik" width="100%">
+</picture>
 
 </td>
 <td width="62%" valign="top">
@@ -65,18 +55,13 @@
 
 ## ◼ BASE STATS
 
-```text
-  DSA / Problem Solving   ██████████████████░░   90
-  Backend Engineering     █████████████████░░░   85
-  Distributed Systems     ███████████████░░░░░   75
-  Frontend                ███████████████░░░░░   75
-  Cloud & DevOps          ██████████████░░░░░░   70
-  AI / GenAI              █████████████░░░░░░░   65
-  ─────────────────────────────────────────────────
-  STAMINA (marathons)     ███████████████████░   95
-  STRENGTH (gym)          ████████████████░░░░   80
-  DEXTERITY (Rubik's)     █████████████████░░░   85
-```
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/rpg/stats-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/rpg/stats-light.svg">
+  <img src="assets/rpg/stats-dark.svg" alt="Base stats: DSA 90, Backend 85, Distributed Systems 75, Frontend 75, Cloud 70, AI 65" width="100%">
+</picture>
+</p>
 
 ---
 
@@ -158,6 +143,10 @@
 
 ## ◼ QUEST LOG
 
+<p align="center"><sub>🗺 DUNGEON MAP — click a room to enter its repo</sub></p>
+
+<p align="center"><a href="https://github.com/KarthikSP1911/MSR-Insight"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/rpg/room-1-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/rpg/room-1-light.svg"><img src="assets/rpg/room-1-dark.svg" alt="Room 1: MSR Insight" width="33%"></picture></a><a href="https://github.com/KarthikSP1911/Quant-Edge"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/rpg/room-2-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/rpg/room-2-light.svg"><img src="assets/rpg/room-2-dark.svg" alt="Room 2: Quant Edge" width="33%"></picture></a><a href="https://github.com/KarthikSP1911/Leetforce"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/rpg/room-3-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/rpg/room-3-light.svg"><img src="assets/rpg/room-3-dark.svg" alt="Room 3: LeetForce" width="33%"></picture></a></p>
+
 ### ▸ Main Quest I — MSR Insight `[COMPLETED]`
 > *An AI academic reporting platform that ended the era of manual reports.*
 
@@ -232,7 +221,7 @@
 | All platforms | **1200+** solved · [Codolio profile](https://codolio.com/profile/karthiksp1911) |
 
 <p align="center">
-  <a href="https://leetcode.com/u/karthiksp1911/"><img src="https://leetcard.jacoblin.cool/karthiksp1911?theme=dark&font=Fira%20Code&ext=heatmap&colors=%230d1117,%23161b22,%23ffffff,%23c9d1d9,%23ffffff,%23bfbfbf,%23808080,%23404040" alt="LeetCode card" /></a>
+  <a href="https://leetcode.com/u/karthiksp1911/"><img src="https://leetcard.jacoblin.cool/karthiksp1911?theme=dark&font=Fira%20Code&ext=heatmap&colors=%230d1117,%23161b22,%23ffffff,%23c9d1d9,%23ffffff,%23bfbfbf,%23808080,%23404040" alt="LeetCode card" width="100%" /></a>
 </p>
 
 <p align="center">
